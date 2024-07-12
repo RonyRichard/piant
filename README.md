@@ -4,7 +4,7 @@ I wrote a simple Paint program in order to learn basic typescript.
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MgD7yKUIJtk)
 
 # Development Environment
 
